@@ -19,4 +19,11 @@
 - `npm run build`
 - `serve -s build`
 
+If you want to test this projet,
+- First install package `npm install`
+- Start with `npm run start`
+
+Note: Pwa fonctions are fully available only on production mode. fell free to share any update or sugestion to upgrate or correction
+
+Thank's
 
