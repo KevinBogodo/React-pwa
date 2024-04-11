@@ -1,5 +1,7 @@
 ![Logo](https://cdn.cosmicjs.com/6352a0f0-28d7-11e9-804a-1fcd66628430-cosmic-pwa.jpg)
-# Hello, here we are going to add pwa fonctionnality in simple react app
+# Add pwa in existing react application
+
+Hello, here we are going to add pwa fonctionnality in simple react app
 
 1- Create app create-react-app
 
